@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Entornos virtuales
+venv/
+env/
+.venv/
+
+# Modelos guardados (pesados)
+*.h5
+*.pb
+*.pkl
+
+# IDE
+.vscode/
+.idea/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+logs/
+*.log
+
+# Outputs temporales
+*.tmp
+*.temp
+
+# Archivos grandes
+*.csv
+!dataset_final_para_modelos(m).csv
