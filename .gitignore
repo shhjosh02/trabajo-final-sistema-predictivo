@@ -35,6 +35,5 @@ logs/
 *.tmp
 *.temp
 
-# Archivos grandes
+# Archivos grandes (NO se suben a GitHub)
 *.csv
-!dataset_final_para_modelos(m).csv
